@@ -40,6 +40,9 @@ export function SignatureBlock({ consultant }: { consultant: string }) {
       </div>
       <div className="text-right">
         <div className="border-t border-gray-400 pt-1 w-48 ml-auto">
+          <div className="font-bold">Dr. Pruthvirajsinh Puwar</div>
+          <div className="italic">MD, DNB Cardiology, FSCAI</div>
+          <div>Interventional Cardiologist</div>
         </div>
       </div>
     </div>
